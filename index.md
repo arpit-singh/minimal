@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Aritificial Intelligence Portfolio
 ---
 ## Machine learning
 
